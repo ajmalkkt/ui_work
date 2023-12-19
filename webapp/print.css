@@ -1,0 +1,10 @@
+/* print.css */
+@media print {
+    /* Define your print styles here */
+    .check {
+      font-family: Arial, sans-serif;
+      font-size: 12pt;
+      /* Add other styles for your check template */
+    }
+  }
+  
